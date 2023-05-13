@@ -11,6 +11,7 @@ logging.basicConfig(
 )
 
 list_of_files = [
+    "hate/__init__.py"
     "hate/components/__init__.py",
     "hate/components/data_ingestion.py",
     "hate/components/data_transformation.py",
