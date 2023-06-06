@@ -1,4 +1,4 @@
-<h1 align="center"> SPEECH CLASSIFICATION PIPELINE PROJECT </h1> 
+<h1 align="center"> SPEECH CLASSIFICATION CI-CD PIPELINE PROJECT </h1> 
 
 ## To run the Project on your local host : 
 
