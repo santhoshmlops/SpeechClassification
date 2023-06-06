@@ -1,6 +1,6 @@
-# Speech Classification Pipeline Project
+<h1 align="center"> SPEECH CLASSIFICATION PIPELINE PROJECT </h1> 
 
-### To run the Project on your local host : 
+## To run the Project on your local host : 
 
 Clone the repository
 
@@ -29,7 +29,7 @@ To run the Web App
  
     localhost:8080
 
-
+Dataset and Trained Model are stored in Google Cloud Storage Buckets : 
 <img src="https://github.com/santhoshmlops/SpeechClassification/blob/main/hate%20img/gcloud.png" alt="Gcloud">
 <img src="https://github.com/santhoshmlops/SpeechClassification/blob/main/hate%20img/fast%201.png" alt="FastAPI">
 <img src="https://github.com/santhoshmlops/SpeechClassification/blob/main/hate%20img/train.png" alt="model training">
@@ -143,3 +143,8 @@ Code 6:
 	To Paste >> simple-app
 	
 ## Once Code get Commit it CI-CD will Starts Running
+
+
+![Screenshot (73)](https://github.com/santhoshmlops/SpeechClassification/assets/133121635/3ad826dd-1ba0-4a7e-a598-fb7ea2f48e17)
+![Screenshot (77)](https://github.com/santhoshmlops/SpeechClassification/assets/133121635/8324f3fb-98e1-4688-819a-130670f0aa5e)
+![Screenshot (75)](https://github.com/santhoshmlops/SpeechClassification/assets/133121635/6d515e3a-ff9c-4d24-bb0d-aaa292fcc21f)
