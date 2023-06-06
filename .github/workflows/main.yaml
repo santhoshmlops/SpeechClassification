@@ -93,9 +93,9 @@ jobs:
       # ****************************************************************************************** #   
 
 
-      - name: Stop and remove container if running
-        run: |
-         docker ps -q --filter "name=speech" | grep -q . && docker stop speech && docker rm -fv speech
+      # - name: Stop and remove container if running
+      #   run: |
+      #    docker ps -q --filter "name=speech" | grep -q . && docker stop speech && docker rm -fv speech
        
       - name: Run Docker Image to serve users
         run: |
