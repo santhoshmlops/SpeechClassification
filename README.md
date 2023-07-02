@@ -152,5 +152,3 @@ Code 6:
 AWS Link :
 
 	http://ec2-3-16-79-95.us-east-2.compute.amazonaws.com:8080/docs
-
-
